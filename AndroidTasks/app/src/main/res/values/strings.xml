@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AndroidUtilities</string>
+    <string name="tab_text_1">Calculator</string>
+    <string name="tab_text_2">Timer</string>
+    <string name="tab_text_3">Stopwatch</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Calculator Texts-->
+    <string name="calculator1">1</string>
+    <string name="calculator2">2</string>
+    <string name="calculator3">3</string>
+    <string name="calculator4">4</string>
+    <string name="calculator5">5</string>
+    <string name="calculator6">6</string>
+    <string name="calculator7">7</string>
+    <string name="calculator8">8</string>
+    <string name="calculator9">9</string>
+    <string name="calculator0">0</string>
+    <string name="multi">*</string>
+    <string name="division">/</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="evaluate">=</string>
+    <string name="clear_last">DEL</string>
+    <string name="clear_all">C</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="select_time">Select Time</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="enter_minutes">Minutes</string>
+    <string name="enter_seconds">seconds</string>
+    <string name="resume">Resume</string>
+    <string name="timer_up">Timer Up</string>
+    <string name="pause">Pause</string>
+</resources>
